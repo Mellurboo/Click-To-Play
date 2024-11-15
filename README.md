@@ -8,7 +8,7 @@
 
 This is a project for school and we were tasked with making a fully functioning main menu system. We did this in unreal engine and I wanted to really go in for it, I made a whole settings menu. It does have some bugs but mainly because of time constraints and I'm still new to the engine and learning
 
-GRADE: TBA
+GRADE: TBD
 
 Either way feel free to open the project, go ahead and learn from it.
 
